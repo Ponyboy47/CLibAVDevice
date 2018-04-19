@@ -6,5 +6,8 @@ Swift C bindings to the libavdevice library used by FFmpeg
 
 Put this as a dependency in your Package.swift:
 ```swift
-.package(url: "https://github.com/Ponyboy47/CLibAVDevice.git", from: "0.1.0")
+.package(url: "https://github.com/Ponyboy47/CLibAVDevice.git", from: "0.1.1")
 ```
+
+## License
+MIT
