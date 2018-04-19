@@ -11,5 +11,12 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/Ponyboy47/CLibAVUtil.git", from: "0.1.0")
+        .package(url: "https://github.com/Ponyboy47/CLibAVCodec.git", from: "0.1.0")
+        .package(url: "https://github.com/Ponyboy47/CLibAVFilter.git", from: "0.1.0")
+        .package(url: "https://github.com/Ponyboy47/CLibAVFormat.git", from: "0.1.0")
+        .package(url: "https://github.com/Ponyboy47/CLibAVResample.git", from: "0.1.0")
+        .package(url: "https://github.com/Ponyboy47/CLibPostProc.git", from: "0.1.0")
+        .package(url: "https://github.com/Ponyboy47/CLibSWScale.git", from: "0.1.0")
+        .package(url: "https://github.com/Ponyboy47/CLibSWResample.git", from: "0.1.0")
     ]
 )
