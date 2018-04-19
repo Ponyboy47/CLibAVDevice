@@ -1,0 +1,5 @@
+module CLibAVDevice [system] {
+  header "avdevice.h"
+  link "avdevice"
+  export *
+}
